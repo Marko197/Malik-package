@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "mocha": "^6.2.2"
+  },
+  "dependencies": {
+    "Marci-package": "git+https://github.com/nemethmarci/Marci-package.git"
   }
 }
